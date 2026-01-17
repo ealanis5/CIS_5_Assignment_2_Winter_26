@@ -1,6 +1,10 @@
 # CIS_5 Assignment 2 (Winter 2026)
+---
+This is a repository that runs and collects user data to determine thier name, age, BMI (Body Mass Index), weight, and test grade (gives letter grade). Steps on how the repository was successfully run is below, as well as in the following youtube video.
 
 A small C++ program that collects user information, calculates BMI (Body Mass Index), and converts a numeric test score into a letter grade.
+
+Youtube/link
 
 ## What the program does
 1. Asks the user for basic information:
